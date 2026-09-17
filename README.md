@@ -1,10 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Md Julfiker Ali Jewel
+# Md Julfiker Ali Jewel
 
-### AI • Cybersecurity • Software Engineering • Research
+### AI Research • Cybersecurity • Software Engineering • Applied Machine Learning
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=2F80ED&center=true&vCenter=true&width=760&lines=Building+AI-powered+systems;Researching+secure+and+robust+intelligent+systems;Turning+research+ideas+into+real-world+applications;Always+learning%2C+building%2C+and+improving" alt="Typing SVG" />
+<p>
+  Building intelligent, secure, and practical systems through research and software engineering.
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Jewel777&label=Profile%20Views&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Jewel777?label=Followers&style=flat-square" alt="GitHub Followers" />
+</p>
 
 </div>
 
@@ -12,129 +19,246 @@
 
 ## 👨‍💻 About Me
 
-I am a software developer and researcher interested in **Artificial Intelligence, Cybersecurity, Machine Learning, intelligent systems, and applied computing**.
+I am a **software developer and researcher** working at the intersection of **Artificial Intelligence, Cybersecurity, Machine Learning, data analytics, and applied computing**.
 
-* 🔭 Working on AI-powered and research-oriented software projects
-* 🧠 Interested in **AI, ML, cybersecurity, anomaly detection, secure systems, and data-driven decision making**
-* 🛡️ Exploring intelligent intrusion detection and prevention systems
-* 🌊 Applying machine learning to real-world forecasting problems
-* 💻 Building software with Python, C#, TypeScript, web technologies, databases, and modern development tools
-* 📚 Continuously learning through research, experimentation, and hands-on development
+My work focuses on transforming research ideas into practical systems — from intelligent cybersecurity and anomaly detection to forecasting, public-health analytics, and AI-powered software platforms.
 
----
-
-## 🔬 Research Interests
-
-`Artificial Intelligence` • `Machine Learning` • `Cybersecurity` • `Intrusion Detection` • `Anomaly Detection` • `Intelligent Systems` • `Public Health Informatics` • `Data Analytics` • `Secure & Robust AI`
+- 🔬 Research interests in **AI, cybersecurity, anomaly detection, secure systems, and robust analytics**
+- 🛡️ Developing intelligent approaches for **intrusion detection and prevention**
+- 📊 Exploring **data poisoning, trustworthy analytics, and resilient detection systems**
+- 🌊 Applying machine learning to **real-world forecasting and decision-support problems**
+- 💻 Building production-oriented applications using modern software engineering technologies
+- 🤖 Developing AI-powered tools designed to solve practical user problems
 
 ---
 
-## 🛠️ Technology Stack
+## 🔬 Research & Technical Interests
+
+<div align="center">
+
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-Research-1f6feb?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-1f6feb?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Detection-1f6feb?style=for-the-badge)
+
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-Analytics-238636?style=for-the-badge)
+![Public Health](https://img.shields.io/badge/Public%20Health-Informatics-238636?style=for-the-badge)
+![Secure AI](https://img.shields.io/badge/Secure%20%26%20Robust-AI-238636?style=for-the-badge)
+
+</div>
+
+---
+
+# 🛠 Technology Stack
 
 <div align="center">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css" alt="Programming Languages" />
+<img src="https://skillicons.dev/icons?i=python,cs,ts,js,html,css" />
 
-### Frameworks, Databases & Tools
+### Frameworks & Platforms
 
-<img src="https://skillicons.dev/icons?i=dotnet,nextjs,nodejs,react,postgres,mysql,git,github,vscode,visualstudio" alt="Frameworks and Tools" />
+<img src="https://skillicons.dev/icons?i=dotnet,nextjs,nodejs,react" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+### Development & Engineering Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Selected Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🛡️ AI-Powered Intrusion Detection & Prevention
 
-Research and development focused on intelligent approaches for identifying malicious behavior and strengthening automated security monitoring.
+Intelligent cybersecurity research focused on detecting malicious behavior and strengthening automated intrusion detection and prevention.
 
-[View Repository](https://github.com/Jewel777/AI-Powered-Intrusion-Detection-system-and-Intrusion-Prevention-system-)
+**Focus:**  
+`Artificial Intelligence` `Cybersecurity` `IDS` `IPS`
 
-### 🌊 Intelligent Flood Forecasting — Kanawha River, WV
+[**View Project →**](https://github.com/Jewel777/AI-Powered-Intrusion-Detection-system-and-Intrusion-Prevention-system-)
 
-Machine-learning-based flood prediction focused on intelligent forecasting for the Kanawha River in West Virginia.
+</td>
 
-[View Repository](https://github.com/Jewel777/Flood-Prediction-Intelligent-Flood-Forecasting-Model-Kanawha-River-WV-by-Machine-Learning)
+<td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
+### 🌊 Intelligent Flood Forecasting
 
-My personal portfolio and web development work.
+Machine-learning-based forecasting research for the **Kanawha River, West Virginia**, exploring intelligent approaches to flood prediction.
 
-[View Repository](https://github.com/Jewel777/MdJulfiker_site)
+**Focus:**  
+`Machine Learning` `Forecasting` `Data Analytics`
+
+[**View Project →**](https://github.com/Jewel777/Flood-Prediction-Intelligent-Flood-Forecasting-Model-Kanawha-River-WV-by-Machine-Learning)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Public Health Data Robustness
+
+Research examining the robustness of public-health surveillance systems under controlled aggregate data-poisoning scenarios.
+
+**Focus:**  
+`Data Poisoning` `Anomaly Detection` `Robust Analytics` `Public Health`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 CareerMate AI
+
+An AI-powered career platform designed to bring resume building, ATS optimization, cover-letter assistance, interview preparation, and career tools into one ecosystem.
+
+**Focus:**  
+`Generative AI` `Career Technology` `Next.js` `AI Systems`
+
+**Status:** Active Development
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### ⚙️ Process Scheduler Simulation
 
-Python-based simulation exploring operating-system process scheduling concepts.
+Python-based simulation exploring operating-system scheduling concepts and process-management behavior.
 
-[View Repository](https://github.com/Jewel777/Python-based-Process-Scheduler-simulation)
+**Focus:**  
+`Python` `Operating Systems` `Algorithms`
 
-### 🧠 Memory Allocation Simulator
+[**View Project →**](https://github.com/Jewel777/Python-based-Process-Scheduler-simulation)
 
-A software project exploring memory-allocation concepts and system behavior through simulation.
+</td>
 
-[View Repository](https://github.com/Jewel777/MemoryAllocationSimulator)
+<td width="50%" valign="top">
 
-### 📊 QuickSort Analysis
+### 🧩 Memory Allocation Simulator
 
-Algorithm-focused work examining QuickSort and computational behavior.
+Simulation-based exploration of memory-allocation strategies and fundamental operating-system concepts.
 
-[View Repository](https://github.com/Jewel777/QuickSort-Analysis)
+**Focus:**  
+`Systems` `Memory Management` `Simulation`
+
+[**View Project →**](https://github.com/Jewel777/MemoryAllocationSimulator)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Analytics
+# 📚 Research Focus
+
+### Robust & Secure Intelligent Systems
+
+My research interests include the reliability and security of intelligent analytical systems, particularly when data or operating conditions may be noisy, abnormal, adversarial, or manipulated.
+
+### AI for Cybersecurity
+
+Exploring machine-learning and AI-based approaches for detecting abnormal behavior, identifying potential attacks, and improving intrusion detection and prevention systems.
+
+### Public Health Informatics
+
+Investigating analytical methods that improve the robustness, transparency, and reliability of automated public-health surveillance.
+
+### Applied Machine Learning
+
+Using machine learning to address practical forecasting, classification, anomaly detection, and decision-support problems.
+
+---
+
+# 💡 Current Focus
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Secure AI Systems
+
+- Intelligent intrusion detection
+- Anomaly detection
+- Robust analytical pipelines
+- Adversarial data conditions
+- Security automation
+
+</td>
+
+<td width="50%">
+
+### 🚀 Applied AI Development
+
+- AI-powered applications
+- Career technology
+- Full-stack intelligent systems
+- Data-driven applications
+- Research-to-production engineering
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 Professional Highlights
+
+- 📖 **Technical Reviewer — Apress / Springer Nature**
+- 🔬 Research in **AI, cybersecurity, public-health analytics, and intelligent systems**
+- 💻 Experience developing research-oriented and production-focused software
+- 🤖 Creator and developer of **CareerMate AI**
+- 🛡️ Ongoing work in intelligent cybersecurity and intrusion detection
+- 📊 Research interests spanning secure AI, anomaly detection, and robust data systems
+
+---
+
+# 📂 Additional Software Projects
+
+| Project | Area |
+|---|---|
+| [QuickSort Analysis](https://github.com/Jewel777/QuickSort-Analysis) | Algorithms & Complexity |
+| [Memory Allocation Simulator](https://github.com/Jewel777/MemoryAllocationSimulator) | Operating Systems |
+| [Python Process Scheduler](https://github.com/Jewel777/Python-based-Process-Scheduler-simulation) | Systems Simulation |
+| [Personal Portfolio](https://github.com/Jewel777/MdJulfiker_site) | Web Development |
+| [Calorie Tracker](https://github.com/Jewel777/calorie-tracker) | Application Development |
+
+---
+
+# 🤝 Collaboration
+
+I am interested in collaborating on research and development involving:
+
+**Artificial Intelligence • Cybersecurity • Machine Learning • Secure AI • Anomaly Detection • Intelligent Systems • Public Health Informatics • Applied Computing**
+
+Feel free to explore my repositories or reach out through GitHub.
+
+---
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Jewel777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+## Research. Build. Secure. Improve.
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jewel777&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+**Turning research ideas into intelligent, practical systems.**
 
-</div>
+<br>
 
-<div align="center">
+<a href="https://github.com/Jewel777">
+  <img src="https://img.shields.io/badge/GitHub-Jewel777-181717?style=for-the-badge&logo=github" />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Jewel777&hide_border=true" alt="GitHub Streak" />
+<br><br>
 
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Jewel777&hide_border=true&area=true" alt="GitHub Activity Graph" />
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-* Designing practical **AI-powered applications**
-* Developing **cybersecurity and intelligent detection systems**
-* Exploring **robustness, anomaly detection, and trustworthy analytical pipelines**
-* Applying machine learning to **real-world forecasting and decision-support problems**
-* Connecting **research with production software engineering**
-
----
-
-## 🤝 Open to Collaboration
-
-I am interested in collaborating on projects involving **AI, cybersecurity, machine learning, intelligent systems, research software, data analytics, and applied computing**.
-
----
-
-<div align="center">
-
-### 💡 Research • Build • Secure • Improve
-
-![Profile Views](https://komarev.com/ghpvc/?username=Jewel777\&style=flat-square)
-
-⭐ **Thanks for visiting my GitHub profile!**
+⭐ **Thank you for visiting my profile.**
 
 </div>

@@ -2,19 +2,25 @@
 
 # Md Julfiker Ali Jewel
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI+Research+%7C+Cybersecurity+%7C+Software+Engineering;Secure+AI+%7C+Anomaly+Detection+%7C+Applied+Machine+Learning;Research+%E2%86%92+Build+%E2%86%92+Validate+%E2%86%92+Improve" />
-</div>
-
 ### AI Researcher · Software Engineer · Cybersecurity & Intelligent Systems
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2800&pause=900&color=2F81F7&center=true&vCenter=true&width=820&lines=AI+Research+%7C+Cybersecurity+%7C+Software+Engineering;Secure+AI+%7C+Anomaly+Detection+%7C+Applied+Machine+Learning;Public+Health+Informatics+%7C+Intelligent+Systems;Research+%E2%86%92+Build+%E2%86%92+Validate+%E2%86%92+Improve" alt="Typing SVG" />
+
+<br>
 
 **Building secure, intelligent, and practical systems at the intersection of research and software engineering.**
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jewel777-181717?style=for-the-badge&logo=github)](https://github.com/Jewel777)
-[![Profile Views](https://komarev.com/ghpvc/?username=Jewel777&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Jewel777)
-![Followers](https://img.shields.io/github/followers/Jewel777?style=for-the-badge&logo=github&label=FOLLOWERS)
+[![Website](https://img.shields.io/badge/Website-mdjulfikeralijewel.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mdjulfikeralijewel.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Md%20Julfiker%20Ali%20Jewel-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/md-julfiker-ali-jewel-7b1442a9)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0004--8799--8957-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-8799-8957)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Jewel777&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Jewel777?style=flat-square&logo=github&label=Followers)
 
 </div>
 

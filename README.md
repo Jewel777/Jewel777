@@ -2,6 +2,10 @@
 
 # Md Julfiker Ali Jewel
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=AI+Research+%7C+Cybersecurity+%7C+Software+Engineering;Secure+AI+%7C+Anomaly+Detection+%7C+Applied+Machine+Learning;Research+%E2%86%92+Build+%E2%86%92+Validate+%E2%86%92+Improve" />
+</div>
+
 ### AI Researcher · Software Engineer · Cybersecurity & Intelligent Systems
 
 **Building secure, intelligent, and practical systems at the intersection of research and software engineering.**
